@@ -1,0 +1,2 @@
+# haarcascade_frontalface
+haarcascade_frontalface，VS实现人脸识别功能
