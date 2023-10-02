@@ -1,0 +1,3 @@
+﻿  haarcascade_frontalface.cpp
+E:\VSC++\haarcascade_frontalface\haarcascade_frontalface.cpp(139,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  haarcascade_frontalface.vcxproj -> E:\VSC++\haarcascade_frontalface\x64\Debug\haarcascade_frontalface.exe
